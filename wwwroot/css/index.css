@@ -1,0 +1,24 @@
+html,
+body
+{
+    background: pink;
+    color: blue;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+footer{
+    text-align: center;
+}
+aside a {
+    width: 100%;
+  }
+
+  main, header, nav, article, aside, footer, section {
+    border: 3px solid green;
+    border-radius: 22px;
+  }
+
+a:hover{
+    background: limegreen;
+    outline: 7px solid blue;
+}
