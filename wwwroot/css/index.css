@@ -15,8 +15,12 @@ aside a {
   main, header, nav, article, aside, footer, section {
     border: 3px solid green;
     border-radius: 22px;
+    margin-bottom: 22px;
+    margin-top: 22px;
   }
-
+  article{
+    background: crimson;
+  }
 a:hover{
     background: limegreen;
     outline: 7px solid blue;
