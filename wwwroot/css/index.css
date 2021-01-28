@@ -11,7 +11,9 @@ footer{
 aside a {
     width: 100%;
   }
-
+aside img{
+  display: block;
+}
   main, header, nav, article, aside, footer, section {
     border: 3px solid green;
     border-radius: 22px;
