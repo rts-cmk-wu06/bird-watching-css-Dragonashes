@@ -21,7 +21,8 @@ aside img{
     margin-top: 22px;
   }
   article{
-    background: crimson;
+    /* background: crimson; */
+    background-image: linear-gradient(#020024, #090979, #00d4ff, #e200ff);
   }
 a:hover{
     background: limegreen;
