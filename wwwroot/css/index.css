@@ -29,3 +29,7 @@ a:hover{
     background: limegreen;
     outline: 7px solid blue;
 }
+.articleimg{
+  float: left;
+  height: 100px;
+}
