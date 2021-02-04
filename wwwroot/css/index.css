@@ -71,6 +71,7 @@ nav{
 }
 footer{
     text-align: center;
+    background: green;
 }
 aside a {
     width: 100%;
