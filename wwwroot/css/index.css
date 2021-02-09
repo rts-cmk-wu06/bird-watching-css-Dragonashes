@@ -54,9 +54,6 @@ p, li {
 
 /* mit stylesheet  */
 
-*{
-    outline: 1px solid green;
-}
 html,
 body{
     color: blue;
